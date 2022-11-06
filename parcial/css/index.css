@@ -1,0 +1,14 @@
+.formSeguro{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.colorForm{
+    background-color: blue;
+}
+
+.colorForm2{
+    background-color: red;
+}
